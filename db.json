@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "name": "Dawit",
+      "email": "dawitderebie@gmail.com",
+      "password": "davance12",
+      "id": 1
+    },
+    {
+      "name": "Abebe Gelaw",
+      "email": "abebe@gmail.com",
+      "password": "davance12",
+      "id": 2
+    },
+    {
+      "name": "Selam Alem",
+      "email": "selam@gmail.com",
+      "password": "selam12",
+      "id": 3
+    },
+    {
+      "name": "Zemichael Gebrekidan",
+      "email": "zemikfcb@gmail.com",
+      "password": "zemik1234",
+      "id": 4
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Dawit Derebie",
+      "email": "dawitderebie@gmail.com",
+      "phone": "+251938486064",
+      "userId": 1,
+      "id": 1,
+      "type": "professional"
+    },
+    {
+      "name": "Selamawit Alemtsehay",
+      "email": "selamalem@gmail.com",
+      "phone": "+251985470782",
+      "userId": 2,
+      "type": "professional",
+      "id": 2
+    },
+    {
+      "name": "Debebe Eshetu",
+      "email": "debex@gmail.com",
+      "phone": "0911898909",
+      "userId": 1,
+      "type": "professional",
+      "id": 3
+    },
+    {
+      "name": "Babuji Mongola",
+      "email": "babuji@gmail.com",
+      "phone": "0911788992",
+      "userId": 2,
+      "type": "personal",
+      "id": 4
+    },
+    {
+      "name": "Dave",
+      "email": "dawitderebie@gmail.com",
+      "phone": "0938486064",
+      "type": "professional",
+      "userId": 2,
+      "id": 5
+    },
+    {
+      "name": "gandi",
+      "email": "gandi@gmail.com",
+      "phone": "0938486064",
+      "type": "professional",
+      "userId": 2,
+      "id": 6
+    },
+    {
+      "name": "Abichu Lebaw",
+      "email": "abichu@lebaw.com",
+      "phone": "0911787878",
+      "type": "professional",
+      "userId": 1,
+      "id": 7
+    },
+    {
+      "name": "yerase addis",
+      "email": "yerase@addis.com",
+      "phone": "0911897898",
+      "type": "personal",
+      "userId": 3,
+      "id": 8
+    },
+    {
+      "name": "dean whitaker",
+      "email": "dean@gmail.com",
+      "phone": "0911789982",
+      "type": "professional",
+      "userId": 3,
+      "id": 9
+    }
+  ]
+}
